@@ -122,3 +122,9 @@ The ReviewAdapter class creates a window for displaying reviews (onCreateViewHol
 DetailActivity activity. This window is filled in using the mandatory onBindViewHolder 
 method. The getItemCount method stores the number of movie reviews. The set Reviews method 
 displays movie reviews.
+
+![alt text](https://raw.githubusercontent.com/ramapitecusment/film_library_android/master/images/1.jpg)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/film_library_android/master/images/2.jpg)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/film_library_android/master/images/3.jpg)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/film_library_android/master/images/4.jpg)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/film_library_android/master/images/5.jpg)
